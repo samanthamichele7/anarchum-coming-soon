@@ -3,7 +3,10 @@ $minion: "minion-pro";
 
 body {
   font-family: $minion;
-  h1, h2, h3, h4, h5, h6 {
+  h1 {
+    font-family: $garamond;
+  }
+  h2 {
     font-family: $garamond;
   }
 }
