@@ -25,7 +25,12 @@ hr {
 
 .bullet-points {
   padding-top: 30px;
+  text-align: center;
   p {
     font-weight: 700;
+    padding-top: 10px;
+  }
+  .th {
+    border-color: #38302e;
   }
 }
