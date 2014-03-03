@@ -1,0 +1,31 @@
+body {
+  background-image: url('../../images/content-bg.jpg');
+  background-position: top center;
+  background-size: cover;
+  background-repeat: repeat-y;
+  margin: 0px 70px 0px 70px;
+}
+
+hr {
+  border: solid black 1px;
+}
+
+.logo {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  img {
+    height: 75px;
+  }
+}
+
+.content {
+  padding-bottom: 50px;
+}
+
+.bullet-points {
+  padding-top: 30px;
+  p {
+    font-weight: 700;
+  }
+}
